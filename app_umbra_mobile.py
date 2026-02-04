@@ -20,8 +20,8 @@ def load_data():
 df = load_data()
 
 # --- HEADER MÓVIL ---
-st.image("assets/umbra_logo_v2.png", width=100)
-st.title("UMBRA OS 📱")
+# st.image("logo.png", width=100) # Comentado para evitar errores si no carga
+st.title("🦖 UMBRA OS")
 st.write("**Sistema de Control de Clientes**")
 
 # --- SELECTOR ---

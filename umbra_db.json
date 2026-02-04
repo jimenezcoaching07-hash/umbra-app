@@ -1,0 +1,166 @@
+{
+    "ejercicios": {
+        "cuadriceps": [
+            {
+                "nombre": "Sentadilla Barra Alta",
+                "tipo": "Compuesto",
+                "dificultad": "Alto",
+                "focus": "Fuerza/Hipertrofia"
+            },
+            {
+                "nombre": "Prensa 45\u00b0",
+                "tipo": "M\u00e1quina",
+                "dificultad": "Medio",
+                "focus": "Hipertrofia"
+            },
+            {
+                "nombre": "Extensiones de Cu\u00e1driceps",
+                "tipo": "Aislamiento",
+                "dificultad": "Bajo",
+                "focus": "Bombeo"
+            },
+            {
+                "nombre": "Sentadilla B\u00falgara",
+                "tipo": "Unilateral",
+                "dificultad": "Muy Alto",
+                "focus": "Correcci\u00f3n/Detalle"
+            }
+        ],
+        "femoral": [
+            {
+                "nombre": "Peso Muerto Rumano (RDL)",
+                "tipo": "Compuesto",
+                "dificultad": "Alto",
+                "focus": "Estiramiento"
+            },
+            {
+                "nombre": "Curl Femoral Tumbado",
+                "tipo": "Aislamiento",
+                "dificultad": "Bajo",
+                "focus": "Contracci\u00f3n"
+            },
+            {
+                "nombre": "Peso Muerto Piernas R\u00edgidas",
+                "tipo": "Compuesto",
+                "dificultad": "Medio",
+                "focus": "Estiramiento"
+            }
+        ],
+        "gluteo": [
+            {
+                "nombre": "Hip Thrust",
+                "tipo": "Compuesto",
+                "dificultad": "Alto",
+                "focus": "Contracci\u00f3n Maxima"
+            },
+            {
+                "nombre": "Patada de Gl\u00fateo en Polea",
+                "tipo": "Aislamiento",
+                "dificultad": "Medio",
+                "focus": "Detalle"
+            },
+            {
+                "nombre": "Abducciones en M\u00e1quina",
+                "tipo": "Aislamiento",
+                "dificultad": "Bajo",
+                "focus": "Gl\u00fateo Medio"
+            }
+        ],
+        "empuje": [
+            {
+                "nombre": "Press Inclinado con Mancuernas",
+                "tipo": "Compuesto",
+                "dificultad": "Alto",
+                "focus": "Pectoral Superior"
+            },
+            {
+                "nombre": "Press Militar Parado",
+                "tipo": "Compuesto",
+                "dificultad": "Alto",
+                "focus": "Hombro General"
+            },
+            {
+                "nombre": "Elevaciones Laterales",
+                "tipo": "Aislamiento",
+                "dificultad": "Bajo",
+                "focus": "Hombro Lateral"
+            },
+            {
+                "nombre": "Extensiones de Tr\u00edceps Polea",
+                "tipo": "Aislamiento",
+                "dificultad": "Bajo",
+                "focus": "Tr\u00edceps"
+            }
+        ],
+        "traccion": [
+            {
+                "nombre": "Jal\u00f3n al Pecho (Lat Pulldown)",
+                "tipo": "Compuesto",
+                "dificultad": "Medio",
+                "focus": "Amplitud"
+            },
+            {
+                "nombre": "Remo con Mancuerna",
+                "tipo": "Compuesto",
+                "dificultad": "Alto",
+                "focus": "Densidad"
+            },
+            {
+                "nombre": "Curl de B\u00edceps con Barra",
+                "tipo": "Aislamiento",
+                "dificultad": "Bajo",
+                "focus": "B\u00edceps General"
+            },
+            {
+                "nombre": "Facepull",
+                "tipo": "Correctivo",
+                "dificultad": "Bajo",
+                "focus": "Hombro Posterior/Salud"
+            }
+        ]
+    },
+    "recetas": [
+        {
+            "nombre": "Hotcakes Proteicos",
+            "tipo": "Desayuno",
+            "calorias": 350,
+            "proteina": 35
+        },
+        {
+            "nombre": "Huevos a la Mexicana",
+            "tipo": "Desayuno",
+            "calorias": 320,
+            "proteina": 25
+        },
+        {
+            "nombre": "Fajitas de Pollo",
+            "tipo": "Comida",
+            "calorias": 300,
+            "proteina": 35
+        },
+        {
+            "nombre": "Burger Monster Fit",
+            "tipo": "Comida",
+            "calorias": 420,
+            "proteina": 30
+        },
+        {
+            "nombre": "Pizza de Pita",
+            "tipo": "Cena",
+            "calorias": 350,
+            "proteina": 18
+        },
+        {
+            "nombre": "Tacos de Lechuga",
+            "tipo": "Cena",
+            "calorias": 250,
+            "proteina": 25
+        },
+        {
+            "nombre": "Frapp\u00e9 Fit",
+            "tipo": "Snack",
+            "calorias": 150,
+            "proteina": 20
+        }
+    ]
+}
